@@ -1,0 +1,1 @@
+web: gunicorn PROYEK_CACA.wsgi --log-file -
